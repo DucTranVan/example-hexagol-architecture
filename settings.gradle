@@ -1,0 +1,6 @@
+include 'common'
+include 'configuration'
+
+include 'adapters:web'
+include 'adapters:client'
+include 'application'
